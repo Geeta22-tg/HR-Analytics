@@ -1,2 +1,24 @@
 # HR-Analytics
-HR Analytics Dashboard built in Power BI to analyze attrition, attendance, performance, and payroll data. Identified high attrition in Tech &amp; Sales and salary‑performance gaps, delivering insights that improved retention, optimized compensation, and supported HR decision‑making.
+
+# Overview:
+    This HR Analytics Dashboard was developed in Power BI to provide actionable insights into workforce trends. 
+    By analyzing attrition, attendance, performance, and payroll data, the project highlights critical issues such 
+    as high attrition in Tech & Sales and salary‑performance gaps. The dashboard empowers HR teams to make data‑driven 
+    decisions that improve retention, optimize compensation, and strengthen overall workforce management.
+
+# Tools & Technologies:
+  • Power BI (DAX, data modeling, power query)
+  • Excel
+
+# Key Insights:
+ • Attrition hotspots in Tech & Sales departments.
+ • Salary vs. performance misalignment.
+ • Hiring spikes indicating reactive recruitment
+
+
+
+
+
+
+
+
