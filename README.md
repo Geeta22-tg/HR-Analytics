@@ -15,6 +15,12 @@
  • Salary vs. performance misalignment.
  • Hiring spikes indicating reactive recruitment
 
+# Key Contribution:
+ • Built dashboards with Power BI (DAX, data modeling, power query),and Excel.
+ • Cleaned and transformed HR datasets for accurate reporting.
+ • Revealed attrition hotspots and compensation misalignment.
+ • Delivered actionable insights to improve retention and optimize HR strategies.
+
 
 
 
